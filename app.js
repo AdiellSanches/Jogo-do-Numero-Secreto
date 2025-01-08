@@ -70,4 +70,3 @@ function exibirMensagemInicial(){
 
 //Chamando as funções
 exibirMensagemInicial();
-
